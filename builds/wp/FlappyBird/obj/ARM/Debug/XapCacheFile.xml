@@ -1,0 +1,33 @@
+﻿<xapCache source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Bin\ARM\Debug\FlappyBird_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="17.06.2015 21:32:52">
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\obj\ARM\Debug\FlappyBird.dll" archivePath="FlappyBird.dll" lastWriteTime="17.06.2015 21:32:41" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="30.05.2015 4:18:40" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\level0" archivePath="Data\level0" lastWriteTime="17.06.2015 21:28:45" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\mainData" archivePath="Data\mainData" lastWriteTime="17.06.2015 21:28:46" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="17.06.2015 21:29:03" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="01.06.2015 17:41:20" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="17.06.2015 21:28:46" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="17.06.2015 21:28:46" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\sharedassets1.assets" archivePath="Data\sharedassets1.assets" lastWriteTime="17.06.2015 21:28:46" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Data\sharedassets1.resource" archivePath="Data\sharedassets1.resource" lastWriteTime="17.06.2015 21:28:46" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Bin\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11.06.2015 22:45:14" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Bin\ARM\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="14.05.2015 23:20:18" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="17.06.2015 21:29:02" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Assembly-UnityScript.dll" archivePath="Assembly-UnityScript.dll" lastWriteTime="11.06.2015 22:44:28" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\Players\ARM\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="01.06.2015 18:08:06" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\UnityEngine.Analytics.dll" archivePath="UnityEngine.Analytics.dll" lastWriteTime="17.06.2015 21:29:02" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="17.06.2015 21:29:02" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\UnityEngine.Networking.dll" archivePath="UnityEngine.Networking.dll" lastWriteTime="17.06.2015 21:29:02" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\UnityEngine.UI.dll" archivePath="UnityEngine.UI.dll" lastWriteTime="17.06.2015 21:29:03" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\Players\ARM\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="01.06.2015 18:13:14" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\Players\ARM\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="01.06.2015 18:08:06" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="17.06.2015 21:29:03" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\Players\ARM\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="01.06.2015 18:08:06" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\Players\ARM\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="01.06.2015 18:14:00" />
+  <file source="F:\Documents\Flappy Bird\builds\wp\FlappyBird\Bin\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.06.2015 22:45:16" />
+</xapCache>

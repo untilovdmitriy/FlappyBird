@@ -1,0 +1,10 @@
+Z:\Documents\Flappy Bird\Temp\bin\Release\Assembly-CSharp.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\Assembly-CSharp.pdb
+Z:\Documents\Flappy Bird\Temp\bin\Release\UnityEditor.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\UnityEngine.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\Mono.Cecil.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\nunit.framework.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\Unity.DataContract.dll
+Z:\Documents\Flappy Bird\Temp\bin\Release\ICSharpCode.NRefactory.dll
+Z:\Documents\Flappy Bird\obj\Release\Assembly-CSharp.dll
+Z:\Documents\Flappy Bird\obj\Release\Assembly-CSharp.pdb
